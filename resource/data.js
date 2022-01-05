@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   {
     id: 1,
     title: "New York",
@@ -686,3 +686,5 @@ export const data = [
     image: "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/07/15/46603.jpg ",
   },
 ];
+
+module.exports = data;
